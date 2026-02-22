@@ -1,5 +1,3 @@
-# META
-
 whatsapp.com
 cdninstagram.com
 fbcdn.net
@@ -8,15 +6,9 @@ facebook.com
 instagramm.com
 whatsapp.net
 
-#LASTPASS
-
 lastpass.com
 
-# UNITY
-
 unity.com
-
-# EASYEDA
 
 easyeda.com
 jlcpcb.com
