@@ -1,0 +1,39 @@
+# === ЭКОСИСТЕМА ЯНДЕКСА ===
+yandex.ru
+yandex.com
+yandex.net
+ya.ru
+yastatic.net
+yandex.cloud
+yandex-team.ru
+kinopoisk.ru
+auto.ru
+dzen.ru
+
+# === ЭКОСИСТЕМА VK (ВКонтакте, Mail.ru, Одноклассники) ===
+vk.com
+vk.ru
+vk.me
+vk.cc
+mvk.com
+userapi.com
+vk-cdn.me
+vkcdnservice.com
+mail.ru
+ok.ru
+odnoklassniki.ru
+mycdn.me
+vkplay.ru
+rustore.ru
+
+# === QWEN И СЕРВЕРЫ ALIBABA (Китайская инфраструктура) ===
+qwen.ai
+qwenlm.ai
+alicdn.com
+alibaba.com
+aliyun.com
+aliyuncs.com
+
+# === STEAM ===
+store.steampowered.com
+
