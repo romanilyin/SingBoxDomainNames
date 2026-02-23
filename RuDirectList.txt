@@ -31,5 +31,6 @@ alibaba.com
 aliyun.com
 aliyuncs.com
 
-store.steampowered.com
-
+steampowered.com
+steamcommunity.com
+steamstatic.com
