@@ -34,3 +34,6 @@ aliyuncs.com
 steampowered.com
 steamcommunity.com
 steamstatic.com
+
+grabcad.com
+googlesyndication.com

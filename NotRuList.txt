@@ -9,6 +9,8 @@ whatsapp.net
 lastpass.com
 
 unity.com
+unitytechnologiesproductionmkahteav.org.coveo.com
+unity3d.com
 
 easyeda.com
 jlcpcb.com
@@ -16,3 +18,9 @@ lcsc.com
 szlcsc.com
 oshwlab.com
 tawk.to
+
+coveo.com
+rlcdn.com
+
+storage.googleapis.com
+id.rlcdn.com
