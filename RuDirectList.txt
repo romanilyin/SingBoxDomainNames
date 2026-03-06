@@ -6,14 +6,21 @@ yastatic.net
 yandex.cloud
 yandex-team.ru
 kinopoisk.ru
+hd.kinopoisk.ru
 auto.ru
 dzen.ru
+
 
 vk.com
 vk.ru
 vk.me
 vk.cc
 mvk.com
+m.vk.com
+mobile-vk.com
+id.vk.com
+vk.gov.ru
+workspace.vk.ru
 userapi.com
 vk-cdn.me
 vkcdnservice.com
@@ -24,16 +31,33 @@ mycdn.me
 vkplay.ru
 rustore.ru
 
+
 qwen.ai
+chat.qwen.ai
 qwenlm.ai
 alicdn.com
+img.alicdn.com
+o.alicdn.com
+assets.alicdn.com
+g.alicdn.com
+at.alicdn.com
 alibaba.com
 aliyun.com
 aliyuncs.com
 
+
 steampowered.com
+store.steampowered.com
 steamcommunity.com
 steamstatic.com
 
+
+reddit.com
+redd.it
+redditmedia.com
+redditstatic.com
+
+
+kaspersky.ru
 grabcad.com
 googlesyndication.com

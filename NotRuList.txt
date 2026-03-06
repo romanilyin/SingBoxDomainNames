@@ -1,26 +1,56 @@
 whatsapp.com
-cdninstagram.com
-fbcdn.net
-instagram.com
-facebook.com
-instagramm.com
+web.whatsapp.com
 whatsapp.net
+static.whatsapp.net
+crashlogs.whatsapp.net
 
-lastpass.com
+
+instagram.com
+graph.instagram.com
+edge-chat.instagram.com
+cdninstagram.com
+scontent-lhr8-1.cdninstagram.com
+scontent-lhr8-2.cdninstagram.com
+scontent-hel3-1.cdninstagram.com
+scontent-mrs2-1.cdninstagram.com
+scontent-mrs2-2.cdninstagram.com
+facebook.com
+fbcdn.net
+instagram.fhel5-1.fna.fbcdn.net
+instagram.frix7-1.fna.fbcdn.net
+
+instagramm.com
+www.instagramm.com
 
 unity.com
-unitytechnologiesproductionmkahteav.org.coveo.com
 unity3d.com
+unitytechnologiesproductionmkahteav.org.coveo.com
+
 
 easyeda.com
 jlcpcb.com
 lcsc.com
 szlcsc.com
 oshwlab.com
-tawk.to
+
 
 coveo.com
+
 rlcdn.com
+id.rlcdn.com
+beeble.ai
+langchain.com
+zencoder.ai
+impact.com
+
 
 storage.googleapis.com
-id.rlcdn.com
+apple.com
+nvidia.com
+stripe.com
+
+
+lastpass.com
+tawk.to
+tplinkcloud.com
+duckdns.org
