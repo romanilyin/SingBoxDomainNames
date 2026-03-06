@@ -44,6 +44,11 @@ at.alicdn.com
 alibaba.com
 aliyun.com
 aliyuncs.com
+taobao.com
+aliexpress.ru
+aliexpress.com
+aliexpress-media.com
+cdn.jsdelivr.net
 
 
 steampowered.com
