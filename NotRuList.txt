@@ -54,3 +54,9 @@ lastpass.com
 tawk.to
 tplinkcloud.com
 duckdns.org
+
+opencode.ai
+models.dev
+anthropic.com
+openai.com
+groq.com
