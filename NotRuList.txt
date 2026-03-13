@@ -60,3 +60,6 @@ models.dev
 anthropic.com
 openai.com
 groq.com
+
+npmjs.org
+buildwithfern.com
