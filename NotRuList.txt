@@ -45,6 +45,10 @@ impact.com
 
 
 storage.googleapis.com
+google.com
+googleusercontent.com
+googletagmanager.com
+gstatic.com
 apple.com
 nvidia.com
 stripe.com
