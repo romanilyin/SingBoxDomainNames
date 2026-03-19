@@ -49,6 +49,7 @@ google.com
 googleusercontent.com
 googletagmanager.com
 gstatic.com
+withgoogle.com
 apple.com
 nvidia.com
 stripe.com
@@ -70,3 +71,4 @@ buildwithfern.com
 openwrt.org
 freeconvert.com
 cloudconvert.com
+cdn.jsdelivr.net
