@@ -53,6 +53,8 @@ withgoogle.com
 apple.com
 nvidia.com
 stripe.com
+stripecdn.com
+app.link.com
 
 
 lastpass.com
