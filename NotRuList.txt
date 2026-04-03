@@ -77,3 +77,4 @@ openwrt.org
 freeconvert.com
 cloudconvert.com
 cdn.jsdelivr.net
+desmos.com
