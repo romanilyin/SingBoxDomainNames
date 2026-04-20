@@ -66,5 +66,3 @@ redditstatic.com
 kaspersky.ru
 grabcad.com
 googlesyndication.com
-gradle.org
-plugins.gradle.org
