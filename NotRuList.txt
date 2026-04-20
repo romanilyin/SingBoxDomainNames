@@ -82,3 +82,5 @@ desmos.com
 artstation.com
 unrealengine.com
 js.hcaptcha.com
+
+jcgt.org
