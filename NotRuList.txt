@@ -58,6 +58,19 @@ nvidia.com
 stripe.com
 stripecdn.com
 app.link.com
+ai.google.dev
+gemini.google
+deepmind.google
+antigravity-unleash.goog
+antigravity.google
+opal.google
+labs.google
+generativeai.google
+jules.google
+ai.studio
+notebooklm.google
+deepmind.com
+stitch.withgoogle.com
 
 
 lastpass.com
