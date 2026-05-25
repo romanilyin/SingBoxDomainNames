@@ -96,3 +96,24 @@ unrealengine.com
 js.hcaptcha.com
 
 jcgt.org
+
+buildwithfern.com
+npmjs.org
+instagram.com
+stripecdn.com
+openwrt.org
+noip.com
+tplinkcloud.com
+registry.ollama.ai
+download.asrock.com
+igroprom.online
+rutracker.org
+cloudfront.net
+sqlite.org
+totalcommander.ch
+download.tortoisegit.org
+cdnjs.cloudflare.com
+knifeprint.com
+media-amazon.com
+fnirsi.com
+oaiusercontent.com
