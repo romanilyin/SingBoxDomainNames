@@ -118,3 +118,4 @@ fnirsi.com
 oaiusercontent.com
 
 cloudflareclient.com
+elevenlabs.io
