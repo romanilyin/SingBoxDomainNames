@@ -119,3 +119,4 @@ oaiusercontent.com
 
 cloudflareclient.com
 elevenlabs.io
+dappcdn.com
