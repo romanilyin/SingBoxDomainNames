@@ -120,3 +120,7 @@ oaiusercontent.com
 cloudflareclient.com
 elevenlabs.io
 dappcdn.com
+realtimerendering.com
+renderwonk.com
+graphicsprogrammingconference.com
+www.activision.com
