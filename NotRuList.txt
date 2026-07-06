@@ -126,3 +126,4 @@ graphicsprogrammingconference.com
 www.activision.com
 boristhebrave.com
 dash.cloudflare.com
+gdcvault.com
