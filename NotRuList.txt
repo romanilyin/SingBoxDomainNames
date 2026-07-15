@@ -76,7 +76,6 @@ stitch.withgoogle.com
 lastpass.com
 tawk.to
 tplinkcloud.com
-duckdns.org
 
 opencode.ai
 models.dev
@@ -119,4 +118,13 @@ fnirsi.com
 oaiusercontent.com
 
 cloudflareclient.com
+elevenlabs.io
+dappcdn.com
+realtimerendering.com
+renderwonk.com
+graphicsprogrammingconference.com
+www.activision.com
+boristhebrave.com
+dash.cloudflare.com
+gdcvault.com
 github.com
