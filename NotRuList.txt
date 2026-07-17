@@ -128,3 +128,6 @@ boristhebrave.com
 dash.cloudflare.com
 gdcvault.com
 github.com
+
+statics.moonshot.cn
+doubleclick.net
