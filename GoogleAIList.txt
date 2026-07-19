@@ -36,3 +36,7 @@ full:antigravity.googleapis.com
 antigravity.google
 antigravity-unleash.goog
 stitch.withgoogle.com
+remotedesktop.google.com
+remotedesktop-pa.googleapis.com
+instantmessaging-pa.googleapis.com
+instantmessaging-pa.clients6.google.com
