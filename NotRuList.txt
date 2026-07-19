@@ -131,3 +131,4 @@ github.com
 
 statics.moonshot.cn
 doubleclick.net
+pingimg.com
