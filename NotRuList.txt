@@ -132,3 +132,4 @@ github.com
 statics.moonshot.cn
 doubleclick.net
 pingimg.com
+cerebras.ai
