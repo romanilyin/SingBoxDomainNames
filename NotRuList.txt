@@ -135,3 +135,12 @@ pingimg.com
 cerebras.ai
 rlcdn.com
 80.lv
+
+ct.sendgrid.net
+intercomcdn.com
+oaistatsig.com
+cdn.openaimerge.com
+workos.com
+images.workoscdn.com
+workos.imgix.net
+rum.browser-intake-datadoghq.com
