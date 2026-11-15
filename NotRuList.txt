@@ -145,3 +145,4 @@ images.workoscdn.com
 workos.imgix.net
 rum.browser-intake-datadoghq.com
 patch.gg
+turbosquid.com
